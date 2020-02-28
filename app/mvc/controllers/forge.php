@@ -12,8 +12,8 @@ class forge_controller extends Controller {
 
     public function __construct(){
 
-        $this->api_key = 'eZ6ZrpoqA4lEKCml8NYubygmQYyPVhMN';
-        $this->api_secret = 'M2ff40c22841f487';
+        $this->api_key = '2bdUAMVv7EJDidExAcqnAc4Affl0xNpA';
+        $this->api_secret = 'F62jAEHz6bRR7AMj';
 
         $this->bucket_key = strtolower($this->api_key) . '_tutorial_bucket';
 
