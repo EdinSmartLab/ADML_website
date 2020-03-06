@@ -496,6 +496,8 @@ class Form extends React.Component {
             }
         });
 
+        this.setState(this.state)
+
     }
 
     toggleView() {
