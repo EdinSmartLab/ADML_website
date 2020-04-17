@@ -418,7 +418,11 @@ class Form extends React.Component {
     handleUnitsChange(e) {
 
         this.state.units = e.target.value
+        //this.state.units = 'in'
         this.setState(this.state)
+
+        this.submit()
+
     }
 
     reset() {
@@ -491,6 +495,8 @@ class Form extends React.Component {
                 Utils.hideOverlay()
             }
         });
+
+        this.setState(this.state)
 
     }
 
