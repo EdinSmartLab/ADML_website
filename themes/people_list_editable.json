@@ -62,12 +62,7 @@
 					"email": "",
 					"linkedin": ""
 				},
-				{
-					"name": "Usama Waheed",
-					"description": "Reduction of Defects in Robotic MIG Welding by Repositioning the Robot Weld Path Using a Laser Vision System",
-					"email": "usama.waheed@mail.mcgill.ca",
-					"linkedin": "https://www.linkedin.com/in/musamawaheed/"
-				},
+				
 				{
 					"name": "Negin Moslemi",
 					"description": "",
@@ -91,7 +86,7 @@
 					"currentPosition": "Current Position: Lecturer at Monash University", 
 					"description": "Topology and Functionality Optimization for Additive Manufacturing",
 					"email": "",
-					"linkedin": ""
+					"linkedin": "https://www.linkedin.com/in/yunlong-tang-83499583/"
 				},
 				{
 					"name": "Sheng Yang",
@@ -108,6 +103,13 @@
 					"description": "Simulation modeling of lattice structures fabricated by Additive Manufacturing",
 					"email": "guoying.dong@mail.mcgill.ca",
 					"linkedin": "https://ca.linkedin.com/in/guoying-dong-b10499120"
+				},
+				{
+					"name": "Usama Waheed",
+					"type": "Master's Graduate",
+					"description": "Reduction of Defects in Robotic MIG Welding by Repositioning the Robot Weld Path Using a Laser Vision System",
+					"email": "usama.waheed@mail.mcgill.ca",
+					"linkedin": "https://www.linkedin.com/in/musamawaheed/"
 				},
 				{
 					"name": "Thomas Page",
@@ -202,7 +204,7 @@
 					"currentPosition": "",
 					"description": "Process planning and optimization of wire deposition additive manufacturing process",
 					"email": "",
-					"linkedin": ""
+					"linkedin": "https://www.linkedin.com/in/jordan-cave-13ba4876/"
 				},
 				{
 					"name": "Fan Yang",
@@ -218,7 +220,7 @@
 					"currentPosition": "",
 					"description": "Environmental impact on the design optimization for AM",
 					"email": "",
-					"linkedin": ""
+					"linkedin": "https://www.linkedin.com/in/aslamsm/"
 				},
 				{
 					"name": "Tanushree Talekar",
@@ -226,7 +228,7 @@
 					"currentPosition": "",
 					"description": "Feature based modeling for the sustainability analysis of additively manufactured products",
 					"email": "",
-					"linkedin": ""
+					"linkedin": "https://www.linkedin.com/in/tanushree-talekar-a9b979116/"
 				},
 				{
 					"name": "Yujia Wang",
@@ -234,7 +236,7 @@
 					"currentPosition": "",
 					"description": "Investigation of printing orientation on product mechanical properties via binder-jetting additive manufacturing process",
 					"email": "",
-					"linkedin": ""
+					"linkedin": "https://www.linkedin.com/in/yujia-helen-wang-a1bb26144/"
 				},
 				{
 					"name": "Gagandeep Singh",
@@ -242,7 +244,7 @@
 					"currentPosition": "",
 					"description": "Modeling & Simulation of Aerospace Product Development",
 					"email": "",
-					"linkedin": ""
+					"linkedin": "https://www.linkedin.com/in/gsminhas/"
 				},
 				{
 					"name": "Mohammed Taleb Ameri",
@@ -250,7 +252,7 @@
 					"currentPosition": "",
 					"description": "Sustainability assessment of milling manufacturing process",
 					"email": "",
-					"linkedin": ""
+					"linkedin": "https://www.linkedin.com/in/taleb-ameri-eit-meng-412a5858/"
 				},
 				{
 					"name": "Kieran Mak",
@@ -258,7 +260,7 @@
 					"currentPosition": "",
 					"description": "Topology Optimization for Additively Manufactured Products",
 					"email": "",
-					"linkedin": ""
+					"linkedin": "https://www.linkedin.com/in/kieranmak/"
 				}
 
 			]
