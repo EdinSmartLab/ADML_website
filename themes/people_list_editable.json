@@ -44,6 +44,18 @@
 					"description": "Bio-inspired geometric modelling approach for heterogeneous lattice structures",
 					"email": "nikita.letov@mail.mcgill.ca",
 					"linkedin": "https://www.linkedin.com/in/nikita-letov/"
+				},
+				{
+					"name": "Mutahar Safdar",
+					"description": "Investigation of the digital DNA of a gas turbine engine for the prediction of vibration anomaly",
+					"email": "",
+					"linkedin": "http://www.linkedin.com/in/mutahar-safdar"
+				},
+				{
+					"name": "Pavan Tejaswi Velivela",
+					"description": "Data Science/ML assisted Biologically Inspired Industrial Design & Engineering",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/pavantejaswivelivela/"
 				}
 			]
 		},
@@ -68,6 +80,24 @@
 					"description": "",
 					"email": "negin.moslemi@mail.mcgill.ca",
 					"linkedin": ""
+				},
+				{
+					"name": "Jiarui Xie",
+					"description": "Smart Manufacturing: data analysis and predictive analysis using Machine Learning technologies in the assembly line",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/jiarui-rex-xie-6560a6156/"
+				},
+				{
+					"name": "Shivangi Sarabhai",
+					"description": "Study, produce and measure cellular structures (Lattice design optimization for Lightweight Structures) related to their flow behavior.",
+					"email": "shivangi.sarabhai@mail.mcgill.ca",
+					"linkedin": "https://www.linkedin.com/in/shivangi-sarabhai-078b4b6b/"
+				},
+				{
+					"name": "Chonghui Zhang",
+					"description": "generative design and additive manufacturing (to be determined)",
+					"email": "",
+					"linkedin": "www.linkedin.com/in/chonghui-zhang-a222171a4"
 				}
 			]
 		},
