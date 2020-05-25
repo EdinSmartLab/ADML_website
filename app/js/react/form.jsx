@@ -418,10 +418,7 @@ class Form extends React.Component {
     handleUnitsChange(e) {
 
         this.state.units = e.target.value
-        //this.state.units = 'in'
         this.setState(this.state)
-
-        this.submit()
 
     }
 
